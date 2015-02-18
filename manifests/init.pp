@@ -77,7 +77,7 @@ class grafana (
   $version               = '1.9.1',
   $install_dir           = '/opt',
   $graphite_scheme       = 'http',
-  $graphite_host         = 'localhost',
+  $graphite_host         = '',
   $graphite_port         = 80,
   $elasticsearch_scheme  = 'http',
   $elasticsearch_host    = '',
