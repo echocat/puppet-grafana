@@ -19,7 +19,7 @@ This module installs and configures for grafana.
 
 ##Module Description
 
-[Grafana](http://http://grafana.org/) is an open source, metrics dashboard and graph editor for Graphite, InfluxDB and OpenTSDB.
+[Grafana](http://grafana.org/) is an open source, metrics dashboard and graph editor for Graphite, InfluxDB and OpenTSDB.
 
 This module is intended to be used in combination with [puppet-graphite](https://forge.puppetlabs.com/dwerder/graphite). At the
 moment you will need modules like apache or nginx to configure the webservices which will serve the grafana scripts.
