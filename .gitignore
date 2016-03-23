@@ -8,12 +8,15 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
-pkg/
-Gemfile.lock
+
+# Beaker/Vagrant
+.vagrant/
+
+# Puppet Files
+pkg
+spec/fixtures
 .rspec_system
-*.swp
-.bundle/
-spec/fixtures/
+.vagrant/
 
 ## Specific to RubyMotion:
 .dat*
@@ -30,11 +33,21 @@ build/
 /.bundle/
 /lib/bundler/man/
 
-# for a library or gem, you might want to ignore these files since the code is
-# intended to run in multiple environments; otherwise, check them in:
-# Gemfile.lock
-# .ruby-version
-# .ruby-gemset
+Gemfile.lock
+.ruby-version
+.ruby-gemset
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+# idea
+./idea
+.idea/
+*.iml
+
+# geppetto/eclipse
+.project
+
+# others
+*swp
+.DS_Store

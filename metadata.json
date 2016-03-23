@@ -23,15 +23,15 @@
     },
     {
       "name": "puppet",
-      "version_requirement": ">=2.7.20 <4.0.0"
+      "version_requirement": ">=2.7.20 <5.0.0"
     }
   ],
   "name": "dwerder-grafana",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "source": "git clone https://github.com/echocat/puppet-grafana.git",
   "author": "Daniel Werdermann",
   "license": "Mozilla Public License Version 2.0",
-  "summary": "Grafana Dashboard to use with Graphite, InfluxDB or OpenTSDB",
+  "summary": "Grafana Dashboard v1.x to use with Graphite, InfluxDB or OpenTSDB",
   "project_page": "https://github.com/echocat/puppet-grafana",
   "issues_url": "https://github.com/echocat/puppet-grafana/issues",
   "dependencies": [

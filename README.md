@@ -15,7 +15,11 @@
 
 ##Overview
 
-This module installs and configures for grafana.
+This module installs and configures for grafana 1.x .
+
+[![Puppet Forge](http://img.shields.io/puppetforge/v/dwerder/grafana.svg)](https://forge.puppetlabs.com/dwerder/grafana)
+[![Build Status](https://secure.travis-ci.org/echocat/puppet-grafana.png?branch=master)](https://travis-ci.org/echocat/puppet-grafana)
+[![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/dwerder/grafana.svg)](https://forge.puppetlabs.com/dwerder/grafana) 
 
 ##Module Description
 
@@ -23,8 +27,6 @@ This module installs and configures for grafana.
 
 This module is intended to be used in combination with [puppet-graphite](https://forge.puppetlabs.com/dwerder/graphite). At the
 moment you will need modules like apache or nginx to configure the webservices which will serve the grafana scripts.
-
-Github Master: [![Build Status](https://secure.travis-ci.org/echocat/puppet-grafana.png?branch=master)](https://travis-ci.org/echocat/puppet-grafana)
 
 ##Setup
 
