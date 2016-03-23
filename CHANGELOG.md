@@ -1,3 +1,8 @@
+## 2016-03-24 - 1.2.1 (Feature/Bugfix release)
+
+- Issue #11 Added ElasticSearch Index Configuration
+- Issue #13 add `package_base` to install from own location
+
 ## 2015-04-14 - 1.2.0 (Feature/Bugfix release)
 
 #### Features
