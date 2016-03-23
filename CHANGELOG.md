@@ -1,3 +1,7 @@
+## 2016-03-24 - 1.2.2 (Bugfix release)
+
+- add missing CHANGELOG notes
+
 ## 2016-03-24 - 1.2.1 (Feature/Bugfix release)
 
 - Issue #11 Added ElasticSearch Index Configuration
