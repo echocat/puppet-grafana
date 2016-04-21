@@ -1,3 +1,10 @@
+# _Out of maintenance!_
+
+This module is no longer support. A good alternative is https://forge.puppet.com/bfraser/grafana
+
+<br>
+<br>
+
 #grafana
 
 ####Table of Contents
