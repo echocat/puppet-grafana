@@ -1,6 +1,6 @@
 # _Out of maintenance!_
 
-This module is no longer support. A good alternative is https://forge.puppet.com/bfraser/grafana
+This module is no longer maintained. A good alternative is https://forge.puppet.com/bfraser/grafana
 
 <br>
 <br>
