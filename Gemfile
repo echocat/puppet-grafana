@@ -8,4 +8,4 @@ gem 'puppet-lint', '>= 0.3.2'
 gem 'facter', facterversion
 gem 'rspec', '< 3.2.0'
 # rubi <1.9 versus rake 11.0.0 workaround
-gem 'rake', '< 11.0.0'
+gem 'rake', '< 12.3.3'
